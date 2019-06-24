@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/hynra/bull-redismq-example/issues"
   },
-  "homepage": "https://github.com/hynra/bull-redismq-example#readme"
+  "homepage": "https://github.com/hynra/bull-redismq-example#readme",
+  "dependencies": {
+    "bull": "^3.10.0",
+    "dotenv": "^8.0.0"
+  }
 }
